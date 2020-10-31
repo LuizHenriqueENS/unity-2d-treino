@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Carisma
+  m_EditorClassIdentifier: 
+  storyText: "Roubar n\xE3o era sua \xFAnica habilidade. Carisma era outra habilidade
+    que voc\xEA usava bem. Aos poucos o pessoal da Taverna come\xE7ou a ficar do seu
+    lado. O Guerreiro estava perdendo o argumento. \r\n\r\nO Guerreiro disse \"Ent\xE3o
+    me deixa revist\xE1-lo. Se realmente n\xE3o tiver nada eu pe\xE7o desculpa\"\r\n\r\n1)
+    Argumentar para que ele n\xE3o revista, pois encontrar\xE1 o saco de moedas\r\n\r\n2)
+    Abrir seus bra\xE7os insinuando para que seja revistado."
+  nextState:
+  - {fileID: 11400000, guid: 302e6c50f485e4448a5fa40cdca8e245, type: 2}
+  - {fileID: 11400000, guid: 2f70e0c20c7400444affdafdc111961c, type: 2}

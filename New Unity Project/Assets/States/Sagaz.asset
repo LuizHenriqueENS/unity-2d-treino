@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Sagaz
+  m_EditorClassIdentifier: 
+  storyText: "Recompensado pela sua paci\xEAncia, o Guereiro fez um largo movimento
+    com a clava e te deu algumas op\xE7\xF5es \r\n\r\n\r\n\r\n1) Esquivar do ataque
+    e me posicionar atr\xE1s dele.\r\n\r\n2) Esquivar e entrar dentro do espa\xE7o
+    defensivo do Guerreiro."
+  nextState:
+  - {fileID: 11400000, guid: 3577ca240a3e3434a9a86744645e088c, type: 2}
+  - {fileID: 11400000, guid: 87e44d8ab8106dc43a387d72b808c6d7, type: 2}

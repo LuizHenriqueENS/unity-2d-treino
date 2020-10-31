@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Resistindo
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA resistiu! Voc\xEA n\xE3o atacou o Guerreiro, mas tem poucos
+    segundos para agir.\r\n\r\n1) Usar FURTIVIDADE."
+  nextState:
+  - {fileID: 11400000, guid: b88c4bf1c75ca914e95d434f1eb3b127, type: 2}

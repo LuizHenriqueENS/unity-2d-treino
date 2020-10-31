@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: "O In\xEDcio"
+  m_EditorClassIdentifier: 
+  storyText: "\rVoc\xEA jura que encontrou no ch\xE3o. Achado n\xE3o \xE9 roubado,
+    como dizia algum outro Ladino por ai. Mas isso n\xE3o serviu para acalmar o Guerreiro
+    de 2 metros de altura que j\xE1 estava prestes a balan\xE7ar sua enorme clava.\r\n\r\nO
+    que voc\xEA far\xE1?\r\n\r\n1) Vou falar \"Pera ae, mano. Clava n\xE3o \xE9 coisa
+    de Cl\xE9rigo?\"\r\n\r\n2) Tentarei desviar!"
+  nextState:
+  - {fileID: 11400000, guid: 8a69c4a27f517984ab093a1e5cc93326, type: 2}
+  - {fileID: 11400000, guid: 595b02b3b80f6de47870dbbdd246bac5, type: 2}

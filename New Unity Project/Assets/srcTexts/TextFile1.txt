@@ -1,0 +1,19 @@
+Você despertou em um lugar que definitivamente não era o seu quarto. Sua cabeça está latejando e sua visão um pouco turva. Só depois
+de alguns minutos você finalmente
+
+1) Olha ao redor para buscar explicações.
+2) Tenta lembrar o que aconteceu antes de ir dormir.
+
+-------
+
+A1 - A Explicação?
+
+Não havia nada para olhar no entorno. A Lua mal ilumina onde você está. Pelo gramado você deduziu que está em algum campo ou prado, mas nada que respondesse suas perguntas.
+De repente um frio cruza suas costas. Você sente que está sendo observado.
+
+1) Como só tem essa árvore aqui, talvez ela me responda algo! (Ignorar a sensação)
+2) Tentar forçar minha visão para ver se enxergo alguma cosia! (Seguir intuição)
+
+---
+
+A2 - Lembrando

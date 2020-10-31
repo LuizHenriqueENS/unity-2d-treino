@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Esquivando
+  m_EditorClassIdentifier: 
+  storyText: "Ensaboado como todo bom Ladino, voc\xEA conseguiu dar um mergulho seguido
+    de uma cambalhota para longe do Guerreiro. A clava esmagou o ch\xE3o de madeira
+    da Taverna.\r\n\r\n\"Ladino de merda! Devolva meu saco de dinheiro e eu prometo
+    te matar rapidamente\"\r\n\r\n1) \"Que tipo de idiota aceitaria essa oferta. Eu
+    vou fugir.\" - Fugir\r\n\r\n2) \"S\xE9rio? Pega aqui o seu saco de moedas ent\xE3o\"
+    - Jogar um saco com bombas dentro."
+  nextState:
+  - {fileID: 11400000, guid: fbabcf9cf5e8d124291201883f2ab0c1, type: 2}
+  - {fileID: 11400000, guid: accd1447e697de44698b1a91de8f3df3, type: 2}

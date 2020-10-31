@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: MelhorFinal
+  m_EditorClassIdentifier: 
+  storyText: "O MELHOR FINAL!\r\n\r\nN\xE3o apenas humilhou o coitado do Guerreiro
+    como tamb\xE9m roubou duas vezes sem ser morto! \r\n\r\nVoc\xEA mostrou muitas
+    das suas capacidades de Ladino (agilidade, resist\xEAncia e habilidades). N\xE3o
+    \xE9 a toa que te consideram o melhor!\r\n\r\nPRESSIONE 1 PARA REINICIAR"
+  nextState:
+  - {fileID: 11400000, guid: e0c35ddef85732e43a9fde266408a14d, type: 2}

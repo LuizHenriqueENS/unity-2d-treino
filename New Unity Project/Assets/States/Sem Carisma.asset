@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Sem Carisma
+  m_EditorClassIdentifier: 
+  storyText: "Final sem carisma\r!!\n\nSua argumenta\xE7\xE3o n\xE3o foi muito boa.
+    Ela fez com que todos da Taverna passassem a desconfiar de voc\xEA. \r\r\nVoc\xEA
+    foi revistado e encontraram as moedas de ouro. \r\nVoc\xEA foi varado na porrada.
+    N\xE3o morreu, mas teve suas m\xE3os fraturadas os suficiente para nunca mais
+    conseguir uma Gazua.\r\n\r\nMais sorte na pr\xF3xima...\r\n\r\nPRESSIONE 1 PARA
+    JOGAR NOVAMENTE"
+  nextState:
+  - {fileID: 11400000, guid: e0c35ddef85732e43a9fde266408a14d, type: 2}

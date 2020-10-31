@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Final Horrivel
+  m_EditorClassIdentifier: 
+  storyText: "FINAL HORR\xCDVEL!\r\n\nSem tempo para se recuperar. O Guerreiro prometeu
+    e cumpriu. Com sua pesada clava ele amassou sua cabe\xE7a contra a parede. A cena
+    foi feia, mas ali naquela Taverna todos era aventureiros acostumados.\r\n\r\n\r\nVOC\xCA
+    MORREU!\r\n\r\n\r\nPRESSIONE 1 PARA REINICIAR O JOGO"
+  nextState:
+  - {fileID: 11400000, guid: e0c35ddef85732e43a9fde266408a14d, type: 2}

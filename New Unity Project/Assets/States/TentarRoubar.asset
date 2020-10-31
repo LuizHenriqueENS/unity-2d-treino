@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: TentarRoubar
+  m_EditorClassIdentifier: 
+  storyText: "A m\xFAsica favorita de um Ladino \xE9 o som de varias moedas de ouros
+    em um mesmo lugar. Como poderia ter resistido? \r\n\r\nImpercept\xEDvel voc\xEA
+    se esgueirou perto do Guerreiro e roubou-lhe mais dinheiro.\r\n\r\n1) Estou cheio
+    da grana. Fugir!"
+  nextState:
+  - {fileID: 11400000, guid: a4d781c1823b9d34f942af652fb5b84a, type: 2}

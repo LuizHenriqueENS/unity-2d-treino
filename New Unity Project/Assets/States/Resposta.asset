@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Resposta
+  m_EditorClassIdentifier: 
+  storyText: "O Guerreiro bravo gritou que voc\xEA tinha roubado as moedas dele. A
+    regra daquela Taverna dizia que voc\xEA pode matar um ladr\xE3zinho caso possa
+    provar. \r\n\r\nVoc\xEA \xE9 um Ladino e todos sabem. Precisa se defender.\r\n\r\n1)
+    \"Espera, voc\xEA est\xE1 acusando o primeiro Ladino que v\xEA? Isso \xE9 injusti\xE7a.
+    Na hora de abrir ba\xFAs nas Masmorras voc\xEAs n\xE3o acham nossas habilidades
+    ruins\"\r\n\r\r\n2) \"Col\xE9eee, Sr. Clavinha?\""
+  nextState:
+  - {fileID: 11400000, guid: 8ade18d8c72ade5499034c7e9b2bbafb, type: 2}
+  - {fileID: 11400000, guid: 7e1fc36d732849e488cfb2e5dc1b8bf3, type: 2}

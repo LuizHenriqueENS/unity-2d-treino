@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Mano a Mano
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA aceitou seus instintos e pulou para cima do Guerreiro como um
+    animal enfurecido. Voc\xEA sacou sua fiel adaga feita de obsidiana que saqueou
+    em uma masmorra recentemente.\r\n\r\n1)  Usar minha agilidade e fazer o primeiro
+    movimento.\r\n\r\n2) Esperar o movimento do Guerreiro."
+  nextState:
+  - {fileID: 11400000, guid: a6b6ad139d2f1b24db0f132b70a92b2d, type: 2}
+  - {fileID: 11400000, guid: a2cd5a83128b48f4aa9d59a74586dec6, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Fugindo
+  m_EditorClassIdentifier: 
+  storyText: "N\xE3o foi uma sacada muito esperta simplesmente fugir. O Guerreiro
+    rugiu como um le\xE3o e voc\xEA se sentiu for\xE7ado focar nele, como um touro
+    focando na cor vermelha. Voc\xEA foi provocado. Seu corpo estava com vontade de
+    atacar e seu sangue fervia.\r\n\r\n1) Tentar resistir e n\xE3o atacar.\r\n\r\n2)
+    Atacar!\r\n\r\n"
+  nextState:
+  - {fileID: 11400000, guid: 7450bb3016a21404ebbe68d94e4e178c, type: 2}
+  - {fileID: 11400000, guid: 20021c9b53254c544b2580e186434c1e, type: 2}

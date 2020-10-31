@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: PoderGuerreiro
+  m_EditorClassIdentifier: 
+  storyText: "O guerreiro sorriu com o seu fracasso. Ele disse \"Eu realmente quero
+    te matar agora, desgra\xE7ado\". Ele te deu um soco que te arremessou para longe.\r\n\r\nVoc\xEA
+    ficou completamente desnorteado. Sua vis\xE3o estava balan\xE7ando e voc\xEA via
+    dois guerreiros.\r\n\r\n\r\n\r\n1) Tentar se recompor\r\n\r\n2) Tentar fugir."
+  nextState:
+  - {fileID: 11400000, guid: 25cf21113d28c3e49bf10a101a9df178, type: 2}
+  - {fileID: 11400000, guid: de375a24714ddec4faa213dde8c231ef, type: 2}

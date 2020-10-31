@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: AtacarPrimeiro
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA se moveu rapidamente. Ningu\xE9m presente ali conseguiu acompanhar
+    seus movimentos. Com sua adaga empunhada voc\xEA tentou perfurar o cora\xE7\xE3o
+    do Guerreiro que estava sem sua armadura pesada.\r\n\r\nMas voc\xEA o subestimou.
+    Ele estava vestindo uma cota de malha forte o suficiente para resistir a sua investida.\r\n\r\nPRESSIONE
+    1 PARA CONTINUAR"
+  nextState:
+  - {fileID: 11400000, guid: d01fdd82c2f1c9f4d8ee125cfbe697ad, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Bem vindo ao Taverna Drag\xE3o Nocturno!\n\nAqui voc\xEA viver\xE1(ou
+    n\xE3o) a experi\xEAncia de um jovem prod\xEDgio Ladino em uma situa\xE7\xE3o
+    complicada. Se ela ser\xE1 f\xE1cil de resolver ou n\xE3o, voc\xEA que escolher\xE1.\n\nPara
+    jogar basta escolher sua a\xE7\xE3o e pressionar o n\xFAmero correspondente no
+    teclado (1, 2 ou 3). \n\nO jogo possu\xED cerca de 8 finais diferentes! Aproveite
+    para descobrir quais s\xE3o.\n\nPRESSIONE 1 PARA COME\xC7AR SUA AVENTURA!\n\nUse
+    ALT + F4 para fechar o jogo.\nCriado por Lu1zHenrique!"
+  nextState:
+  - {fileID: 11400000, guid: 55becbebc9c3cdc4789c0775da1691d1, type: 2}

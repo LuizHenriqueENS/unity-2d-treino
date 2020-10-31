@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Furtivo
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA simplesmente desapareceu na frente de todo mundo. Apenas um
+    Ladino de classe poderia usar uma habilidade dessa.  O Guerreiro ficou surpreso.
+    \r\n\r\nVoc\xEA reparou que havia outra bolsa de moedas na cintura do Guerreiro.\r\n\r\n1)Tentar
+    matar o Guerreiro\r\n\r\n2) Tentar roub\xE1-lo."
+  nextState:
+  - {fileID: 11400000, guid: a6b6ad139d2f1b24db0f132b70a92b2d, type: 2}
+  - {fileID: 11400000, guid: 546718bf04a76254c8e03ca00370c287, type: 2}

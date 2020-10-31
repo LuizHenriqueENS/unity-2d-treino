@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Final Ruim
+  m_EditorClassIdentifier: 
+  storyText: "FINAL RUIM\r\n\n\xC9, voc\xEA falhou miseravelmente e ainda fez com
+    que o orgulho dos Ladinos fosse ferido. Voc\xEA \xE9 uma l\xE1stima. \r\n\r\nAl\xE9m
+    de perder o dinheiro, voc\xEA deixou sua adaga cair na luta.\r\n\r\nPRESSIONE
+    1 PARA REINICIAR O JOGO"
+  nextState:
+  - {fileID: 11400000, guid: e0c35ddef85732e43a9fde266408a14d, type: 2}

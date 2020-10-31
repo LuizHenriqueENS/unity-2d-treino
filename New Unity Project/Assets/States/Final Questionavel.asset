@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0fdc6e5dcb1f734ebcd4c02bd62351a, type: 3}
+  m_Name: Final Questionavel
+  m_EditorClassIdentifier: 
+  storyText: "FINAL QUESTION\xC1VEL\r\n\n\nO Guerreiro caiu sem vida no ch\xE3o. Poucas
+    profiss\xF5es s\xE3o capazes de derrubar um Guerreiro parrudo como aquele com
+    um golpe. Voc\xEA honrou sua adaga e sua percep\xE7\xE3o de Ladino. \r\n\r\nVoc\xEA
+    saiu da Taverna admirado por uns, temido por outros.\r\n\r\nNo futuro voc\xEA
+    se questionar\xE1 se valeu a pena tudo isso por algumas moedas.\r\n\r\n\r\n\r\nPRESSIONE
+    1 PARA JOGAR NOVAMENTE"
+  nextState:
+  - {fileID: 11400000, guid: e0c35ddef85732e43a9fde266408a14d, type: 2}
